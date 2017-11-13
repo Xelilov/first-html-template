@@ -1,0 +1,198 @@
+.float-left{
+	float: left;
+}
+.float-right{
+	float: right;
+}
+.clear{
+	clear: both;
+}
+.width{
+	width: 100%;
+}
+.black{
+	background-color: black;
+}
+.big{
+	width: 20px;
+	height: 20px;
+	border-radius: 3px;
+	margin: 10px 0px 0px 10px;
+}
+.small{
+	width: 5px;
+	height: 5px;
+	border-radius: 4px;
+	margin: 15px 0px 0px 10px;
+}
+
+#header{
+	height: 35px;
+	background-color: #d6d4d4;
+
+}
+#header ul{
+	margin:0px 0px 0px 300px;	
+}
+
+#header ul li{
+	float: left;
+	margin-left: 10px;
+	list-style: none;
+
+}
+#middle-part{
+	height: 30px;
+	background-color: #9c9d9e;
+
+}
+
+#albom-title{
+	width: 100%;
+
+}
+.albom-title-left{
+	width: 60%;
+	height: 200px;
+	background-color: #838384;
+}
+.albom-title-right{
+	width: 40%;
+	height: 200px;
+	background-color: #646466;
+}
+
+#footer{
+
+
+}
+
+.footer-left{
+	width: 35%;
+	height: 500px;
+	background-color: #9f9fa0;
+}
+.footer-left-top{
+	height: 40px;
+	
+}
+.footer-left-top div h3{
+	float: left;
+	margin-left: 50px;
+}
+.alboms{
+	width:60px;
+	height: 30px;
+	background-color: #bdbdbf;
+	margin-top: 10px; 
+	text-align: center;
+	border-radius: 0px 10px 10px 0px; 
+}
+.artist{
+	width:60px;
+	height: 30px;
+	background-color: #858587;
+	margin-top: 10px;
+	text-align: center; 
+	border-radius: 10px 0px 0px 10px;
+}
+
+.footer-left ul li{
+	float: left;
+	list-style: none;
+	margin: 10px
+}
+.footer-left ul li div{
+	width: 100px;
+	height: 100px;
+	background-color: #4e4e4f;
+}
+.footer-middle{
+	width: 35%;
+	height: 500px;
+	background-color: #9f9fa0;
+}
+.footer-middle div h3{
+	float: left;
+	margin-left: 50px;
+}
+.songs{
+	width:70px;
+	height: 30px;
+	background-color: #bdbdbf;
+	margin-top: 10px; 
+	text-align: center;
+	border-radius: 0px 10px 10px 0px; 
+}
+.hot-songs{
+	width:70px;
+	height: 30px;
+	background-color: #858587;
+	margin-top: 10px;
+	text-align: center;
+	border-radius: 10px 0px 0px 10px;
+
+}
+.footer-middle ul li{
+	float: left;
+	list-style: none;
+	width: 195px;
+	height: 50px;
+	margin-top: 15px; 
+
+}
+.footer-middle ul li div{
+	width: 50px;
+	height: 50px;
+	background-color:#4e4e4f; 
+	float: left;
+}
+	
+.footer-right{
+	width: 30%;
+	height: 500px;
+	background-color: #999a9b;
+}
+.footer-right div h3{
+	float: left;
+	margin-left: 50px;
+}
+.all-generis{
+	width:70px;
+	height: 30px;
+	background-color: red;
+	margin-top: 10px; 
+	border-radius: 10px;
+}
+.username-login{
+	width: 110px;
+	height: 30px;
+	background-color:#747475;
+	border: 1px solid black;
+	margin-left: 30px;
+	border-radius: 5px 0px 0px 5px;
+}
+.redeem{
+	width: 60px;
+	height: 30px;
+	border: 1px solid black;
+}
+.account{
+	width: 60px;
+	height: 30px;
+	border: 1px solid black;
+
+}
+.support{
+	width: 60px;
+	height: 30px;
+	border: 1px solid black;
+	border-radius: 0px 5px 5px 0px;
+}
+.footer-right ul{
+	float: left;
+	list-style: none;
+}
+.footer-right h2{
+	margin-left: 50px;
+}
